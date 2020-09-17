@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> Coin Flipper</title>
+		<title>Coin Flipper</title>
 	</head>
 	<body>
 		<h1>Coin Flipper</h1>
